@@ -12,7 +12,7 @@ authors:
    - name: Anonymous
 
 # must be the exact same name as your blogpost
-bibliography: 2025-04-28-permutation-symmetric-NNs.bib  
+bibliography: 2025-04-28-permutation-symmetric-nns.bib  
 
 # Add a table of contents to your post.
 #   - make sure that TOC names match the actual section names
